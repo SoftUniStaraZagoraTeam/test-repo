@@ -1,0 +1,8 @@
+name = Zdravko
+size = 100 ( .... What???...) hahaha
+email = ztimofeev01@gmail.com
+
+name = Genoveva
+size = eheee
+email = gencheva.genoveva@abv.bg
+number: 0883352827

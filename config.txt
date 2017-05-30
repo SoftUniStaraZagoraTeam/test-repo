@@ -1,0 +1,3 @@
+name = Zdravko
+size = 100 ( .... What???...) hahaha
+email = ztimofeev01@gmail.com

@@ -1,3 +1,4 @@
+<<<<<<< .mine
 name = Zdravko
 size = 100 ( .... What???...) hahaha
 email = ztimofeev01@gmail.com
@@ -6,3 +7,35 @@ name = Genoveva
 size = eheee
 email = gencheva.genoveva@abv.bg
 number: 0883352827
+
+
+
+
+
+
+
+
+
+
+
+=======
+name = Zdravko
+size = 100 ( .... What???...) hahaha
+email = ztimofeev01@gmail.com
+
+
+name = Ivelin
+size = 178
+email = iarnaudov91@gmail.com
+
+name = Genoveva
+size = eheee
+email = gencheva.genoveva@abv.bg
+
+name = Ivan
+size = 182
+email = gfys@abv.bg
+
+New information - text, text, text, text, text, 
+text, text, text, text, text, text, text, text.
+>>>>>>> .theirs

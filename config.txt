@@ -11,5 +11,9 @@ name = Genoveva
 size = eheee
 email = gencheva.genoveva@abv.bg
 
+name = Ivan
+size = 182
+email = gfys@abv.bg
+
 New information - text, text, text, text, text, 
 text, text, text, text, text, text, text, text.

@@ -24,6 +24,10 @@ name = Ivan
 size = 182
 email = gfys@abv.bg
 
+name = Martin
+size = 180
+email = kuyumdjiev11@gmail.com 
+
 New information - text, text, text, text, text, 
 text, text, text, text, text, text, text, text.
 
